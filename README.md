@@ -12,6 +12,7 @@ some  links  gathering about penetration
 
 ## Web
 - [What can I use](https://caniuse.com/)
+- [CSP evaluator](https://csp-evaluator.withgoogle.com/)
 
 
 ## Comprehensive
