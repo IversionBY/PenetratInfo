@@ -29,4 +29,7 @@ some  links  gathering about penetration
 - [0Day today](https://0day.today/)
 - [CVE list](https://cve.mitre.org/cve/search_cve_list.html)
 - [Exploitdb](https://www.exploit-db.com/)
+- [Seclists](http://seclists.org/fulldisclosure/)
+- [Cxsecurity](https://cxsecurity.com/)
+
 
