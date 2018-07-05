@@ -1,6 +1,6 @@
 # Pentestinfo
 some  links  gathering about penetration
-## System
+## System 
 - [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 - [Linux kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits)
 - [Windows exploits](https://github.com/SecWiki/windows-kernel-exploits)
@@ -13,7 +13,16 @@ some  links  gathering about penetration
 ## Web
 - [What can I use](https://caniuse.com/)
 - [CSP evaluator](https://csp-evaluator.withgoogle.com/)
+- [Mozilla wen documents](https://developer.mozilla.org/zh-CN/docs/Web)
+- [Curesec blog](https://curesec.com/blog/)
+- [Webgoat](https://github.com/WebGoat/WebGoat)
+- [JWT online](https://jwt.io/)
+- [Broken browser](https://www.brokenbrowser.com/)
+- [JS beautiful](http://jsbeautifier.org/)
+- [JStillery](https://mindedsecurity.github.io/jstillery/)
 
 
 ## Comprehensive
 - [Pentestmonkey](http://pentestmonkey.net/)
+- [OWASP Cheat sheat](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series)
+- [Gathering by chybeta](https://chybeta.github.io/2017/08/19/Web-Security-Learning/)
