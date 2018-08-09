@@ -33,5 +33,5 @@ some  links  gathering about penetration
 - [Seclists](http://seclists.org/fulldisclosure/)
 - [Cxsecurity](https://cxsecurity.com/)
 - [explainshell](https://www.explainshell.com/)
-
+- [kitploit 工具介绍网站](https://www.kitploit.com/)
 
