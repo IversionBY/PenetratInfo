@@ -32,5 +32,6 @@ some  links  gathering about penetration
 - [Exploitdb](https://www.exploit-db.com/)
 - [Seclists](http://seclists.org/fulldisclosure/)
 - [Cxsecurity](https://cxsecurity.com/)
+- [explainshell](https://www.explainshell.com/)
 
 
