@@ -39,7 +39,6 @@ some  links  gathering about penetration
 ## MISC(Brute force,encode,decode,cipher)
 - [rumkin](http://rumkin.com/tools/cipher/)
 - [tomeko](http://tomeko.net/online_tools/)
-
 - [cmd5](http://cmd5.com/)
 - [md5-decrypter](https://hashkiller.co.uk/md5-decrypter.aspx)
 - [ CyberChef ](https://gchq.github.io/CyberChef/)
