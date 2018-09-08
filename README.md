@@ -1,5 +1,5 @@
 # Pentestinfo
-some  links  gathering about penetration
+some  links  gathering 
 ## System 
 - [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 - [Linux kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits)
@@ -39,6 +39,7 @@ some  links  gathering about penetration
 ## MISC(Brute force,encode,decode,cipher)
 - [rumkin](http://rumkin.com/tools/cipher/)
 - [tomeko](http://tomeko.net/online_tools/)
+- [cryptool-online](https://www.cryptool.org/de/cryptool-online)
 - [cmd5](http://cmd5.com/)
 - [md5-decrypter](https://hashkiller.co.uk/md5-decrypter.aspx)
 - [ CyberChef ](https://gchq.github.io/CyberChef/)
