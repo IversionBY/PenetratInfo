@@ -1,5 +1,11 @@
 # Pentestinfo
 some  links  gathering 
+
+## Information 
+- [Advantage search grammar](https://thief.one/2017/05/19/1/)
+
+
+
 ## System 
 - [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 - [Linux kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits)
