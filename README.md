@@ -4,7 +4,7 @@ some  links  gathering
 ## Information 
 - [Advantage search grammar](https://thief.one/2017/05/19/1/)
 - [netcraft](https://www.netcraft.com/)
-
+- [fuzzdb] (https://github.com/fuzzdb-project/fuzzdb)
 
 ## System 
 - [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
