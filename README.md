@@ -6,6 +6,8 @@ some  links  gathering
 - [netcraft](https://www.netcraft.com/)
 - [passwd list](https://wiki.skullsecurity.org/Passwords)
 - [fuzzdb](https://github.com/fuzzdb-project/fuzzdb)
+- [ssl certificate search](https://crt.sh)
+- [lookup dns records](https://dnsdumpster.com/)
 
 ## System 
 - [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
@@ -40,7 +42,7 @@ some  links  gathering
 - [Seclists](http://seclists.org/fulldisclosure/)
 - [Cxsecurity](https://cxsecurity.com/)
 - [explainshell](https://www.explainshell.com/)
-- [kitploit 工具介绍网站](https://www.kitploit.com/)
+- [kitploit tools introduction](https://www.kitploit.com/)
 
 
 ## MISC(Brute force,encode,decode,cipher)
