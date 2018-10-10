@@ -30,7 +30,7 @@ some  links  gathering
 - [JS beautiful](http://jsbeautifier.org/)
 - [JStillery](https://mindedsecurity.github.io/jstillery/)
 - [PHP packagist](https://packagist.org/)
-
+- [sql inject cheat sheet](https://websec.ca/kb/sql_injection#MySQL_String_Concatenation)
 
 ## Comprehensive
 - [Pentestmonkey](http://pentestmonkey.net/)
