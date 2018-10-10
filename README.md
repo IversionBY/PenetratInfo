@@ -7,6 +7,7 @@ some  links  gathering
 - [passwd list](https://wiki.skullsecurity.org/Passwords)
 - [fuzzdb](https://github.com/fuzzdb-project/fuzzdb)
 - [ssl certificate search](https://crt.sh)
+- [zone-transger](https://hackertarget.com/zone-transfer/)
 - [lookup dns records](https://dnsdumpster.com/)
 
 ## System 
