@@ -9,7 +9,7 @@ some  links  gathering
 - [ssl certificate search](https://crt.sh)
 - [zone-transger](https://hackertarget.com/zone-transfer/)
 - [lookup dns records](https://dnsdumpster.com/)
-- [微步在线威胁情报] (https://x.threatbook.cn/)
+- [微步在线威胁情报](https://x.threatbook.cn/)
 
 ## System 
 - [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
