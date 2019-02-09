@@ -94,3 +94,6 @@ some  links  gathering
 - [PowerShell-Suite](https://github.com/FuzzySecurity/PowerShell-Suite)    
 - [Impacket](https://github.com/SecureAuthCorp/impacket)  
 - [PowerTools](https://github.com/PowerShellEmpire/PowerTools)
+
+## Other Tools
+- [Oletools](https://github.com/decalage2/oletools)
