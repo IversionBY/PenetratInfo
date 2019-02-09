@@ -86,14 +86,14 @@ some  links  gathering
 - [localtunnel](https://localtunnel.github.io/www/)  
 - [Ngrok](https://github.com/inconshreveable/ngrok)  
 - [FRP](https://github.com/fatedier/frp)  
-- [EarthWorm](http://rootkiter.com/EarthWorm/)  
+- [EarthWorm](http://rootkiter.com/EarthWorm/)is a portable network penetration tool with two core functions of SOCKS v5 service erection and port forwarding, which can complete network penetration in complex network environment. 
 - [reGeorg](https://github.com/sensepost/reGeorg)  
-- [veil](https://github.com/Veil-Framework/Veil)  
-- [Ixkeylog](https://github.com/dorneanu/ixkeylog/)  
-- [UACME](https://github.com/hfiref0x/UACME)  
-- [PowerShell-Suite](https://github.com/FuzzySecurity/PowerShell-Suite)    
-- [Impacket](https://github.com/SecureAuthCorp/impacket)  
-- [PowerTools](https://github.com/PowerShellEmpire/PowerTools)
+- [veil](https://github.com/Veil-Framework/Veil) is a tool designed to generate metasploit payloads that bypass common anti-virus solutions.
+- [Ixkeylog](https://github.com/dorneanu/ixkeylog/) is a X11 keylogger for Unix that basically uses xlib to interact with users keyboard. IXKeyLog will listen for certain X11 events and then trigger specific routines to handle these events.
+- [UACME](https://github.com/hfiref0x/UACME) Defeating Windows User Account Control by abusing built-in Windows AutoElevate backdoor.
+- [PowerShell-Suite](https://github.com/FuzzySecurity/PowerShell-Suite)  is a collection of PowerShell utilities which are great tools and resources online to accomplish most any task.
+- [Impacket](https://github.com/SecureAuthCorp/impacket) is a collection of Python classes for working with network protocols. Impacket is focused on providing low-level programmatic access to the packets and for some protocols (e.g. SMB1-3 and MSRPC) the protocol implementation itself. Packets can be constructed from scratch, as well as parsed from raw data, and the object oriented API makes it simple to work with deep hierarchies of protocols. The library provides a set of tools as examples of what can be done within the context of this library.
+- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit/) is a collection of Microsoft PowerShell modules that can be used to aid penetration testers during all phases of an assessment. PowerSploit is comprised of the following modules and scripts.
 
 ## Other Tools
-- [Oletools](https://github.com/decalage2/oletools) is a package of python tools to analyze Microsoft OLE2 files 
+- [Oletools](https://github.com/decalage2/oletools) is a package of python tools to analyze Microsoft OLE2 files(also called Structured Storage, Compound File Binary Format or Compound Document File Format), such as Microsoft Office documents or Outlook messages, mainly for malware analysis, forensics and debugging. 
