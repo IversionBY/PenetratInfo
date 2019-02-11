@@ -98,3 +98,4 @@ some  links  gathering
 ## Other Tools
 - [Oletools](https://github.com/decalage2/oletools) is a package of python tools to analyze Microsoft OLE2 files(also called Structured Storage, Compound File Binary Format or Compound Document File Format), such as Microsoft Office documents or Outlook messages, mainly for malware analysis, forensics and debugging. 
 - [Wifiphisher](https://github.com/wifiphisher/wifiphisher) is a rogue Access Point framework for conducting red team engagements or Wi-Fi security testing.
+- [Koadic](https://github.com/zerosum0x0/koadic) is a Windows post-exploitation rootkit similar to other penetration testing tools such as Meterpreter and Powershell Empire.
