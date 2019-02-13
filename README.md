@@ -102,4 +102,4 @@ some  links  gathering
 - [VirSCAN.org ](http://www.virscan.org)is a FREE on-line scan service, which checks uploaded files for malware, using antivirus engines, indicated in the VirSCAN list
 
 ## Learning link 
-- [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) Small and highly portable detection tests based on MITRE's ATT&CK.
+- [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)  is a library of simple tests that every security team can execute to test their controls. Tests are focused, have few dependencies, and are defined in a structured format that be used by automation frameworks.
