@@ -18,8 +18,8 @@ some  links  gathering
 - [Tool using  public  databases to suggest windows expolits](https://github.com/GDSSecurity/Windows-Exploit-Suggester)
 - [Awesome tools to exploit Windows](https://github.com/Hack-with-Github/Windows)
 - [Awesome Windows Exploitation](https://github.com/enddo/awesome-windows-exploitation)
-- [vulnhub shooting range](https://www.vulnhub.com/)
-- [vulhub shooting range](https://vulhub.org/)
+- [vulnhub](https://www.vulnhub.com/)
+- [vulhub](https://vulhub.org/)
 
 ## Web
 - [What can I use](https://caniuse.com/)
