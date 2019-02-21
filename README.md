@@ -95,6 +95,7 @@ some  links  gathering
 - [Impacket](https://github.com/SecureAuthCorp/impacket) is a collection of Python classes for working with network protocols. Impacket is focused on providing low-level programmatic access to the packets and for some protocols (e.g. SMB1-3 and MSRPC) the protocol implementation itself. Packets can be constructed from scratch, as well as parsed from raw data, and the object oriented API makes it simple to work with deep hierarchies of protocols. The library provides a set of tools as examples of what can be done within the context of this library.
 - [PowerSploit](https://github.com/PowerShellMafia/PowerSploit/) is a collection of Microsoft PowerShell modules that can be used to aid penetration testers during all phases of an assessment. PowerSploit is comprised of the following modules and scripts.
 - [The backdoor factory](https://github.com/secretsquirrel/the-backdoor-factory) The goal of BDF is to patch executable binaries with user desired shellcode and continue normal execution of the prepatched state.
+- [Shellter](https://github.com/r00t-3xp10it/venom/tree/master/obfuscate/shellter) is a dynamic shellcode injection tool aka dynamic PE infector. It can be used in order to inject shellcode into native Windows applications
 ## Other Tools
 - [Oletools](https://github.com/decalage2/oletools) is a package of python tools to analyze Microsoft OLE2 files(also called Structured Storage, Compound File Binary Format or Compound Document File Format), such as Microsoft Office documents or Outlook messages, mainly for malware analysis, forensics and debugging. 
 - [Wifiphisher](https://github.com/wifiphisher/wifiphisher) is a rogue Access Point framework for conducting red team engagements or Wi-Fi security testing.
@@ -107,3 +108,4 @@ some  links  gathering
 ## Learning Link 
 - [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)  is a library of simple tests that every security team can execute to test their controls. Tests are focused, have few dependencies, and are defined in a structured format that be used by automation frameworks.
 - [Kanxue college](https://www.kanxue.com/chm.htm) 
+- [Micro8](https://github.com/IversionBY/Micro8) 
