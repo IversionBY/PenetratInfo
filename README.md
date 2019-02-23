@@ -75,8 +75,8 @@ some  links  gathering
 
 ## Intranet Penetration
 - [Termite](http://rootkiter.com/Termite/)  
-- [Empire](https://github.com/EmpireProject/Empire)    
-- [Nishang](https://github.com/samratashok/nishang)  
+- [Empire](https://github.com/EmpireProject/Empire)  is a framework and collection of scripts and payloads which enables usage of PowerShell for offensive security, penetration testing and red teaming. Nishang is useful during all phases of penetration testing
+- [Nishang](https://github.com/samratashok/nishang)  is a framework and collection of scripts and payloads which enables usage of PowerShell for offensive security, penetration testing and red teaming. Nishang is useful during all phases of penetration testing
 - [WMI(Windows Management Instrumentation)](https://docs.microsoft.com/en-us/windows/desktop/wmisdk/about-wmi)   
 - [mimikatz](https://github.com/gentilkiwi/mimikatz)  
 - [mimikittenz](https://github.com/putterpanda/mimikittenz)   
