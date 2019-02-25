@@ -109,3 +109,4 @@ some  links  gathering
 - [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)  is a library of simple tests that every security team can execute to test their controls. Tests are focused, have few dependencies, and are defined in a structured format that be used by automation frameworks.
 - [Kanxue college](https://www.kanxue.com/chm.htm) 
 - [Micro8](https://github.com/IversionBY/Micro8) 
+- [Intranet_Penetration_Tips](https://github.com/Ridter/Intranet_Penetration_Tips)
