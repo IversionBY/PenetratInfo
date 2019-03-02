@@ -15,6 +15,20 @@ Some tools and websites may useful in penetration.
 - [threatbook](https://x.threatbook.cn/)
 - [List_of_TCP_and_UDP_port_numbers](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
 
+## Tools For Scan
+- [Nmap](https://nmap.org/)
+- [OWASP Zap](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
+- [OWTF](https://owtf.github.io/#download)
+- [Openvas](http://openvas.org/)
+- [*Burpsuite](https://portswigger.net/burp)
+
+## Application Level Tools
+- [sqlmap](http://sqlmap.org/)
+- [wpscan](https://wpscan.org/)
+
+## Password Relevant
+- [hashcat]
+
 ## System Vulnerability
 - [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 - [Linux kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits)
@@ -22,7 +36,6 @@ Some tools and websites may useful in penetration.
 - [Tool using  public  databases to suggest windows expolits](https://github.com/GDSSecurity/Windows-Exploit-Suggester)
 - [Awesome tools to exploit Windows](https://github.com/Hack-with-Github/Windows)
 - [Awesome Windows Exploitation](https://github.com/enddo/awesome-windows-exploitation)
-
 
 ## Vulnerability System
 - [vulnhub](https://www.vulnhub.com/)
@@ -39,7 +52,6 @@ Some tools and websites may useful in penetration.
 - [JS beautiful](http://jsbeautifier.org/)
 - [JStillery](https://mindedsecurity.github.io/jstillery/)
 - [PHP packagist](https://packagist.org/)
-
 
 ## Existing Vulnerability Finding
 - [Gathering by chybeta](https://chybeta.github.io/2017/08/19/Web-Security-Learning/)
@@ -60,6 +72,8 @@ Some tools and websites may useful in penetration.
 - [Pentestmonkey](http://pentestmonkey.net/)
 - [OWASP Cheat sheat](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series)
 - [sql inject cheat sheet](https://websec.ca/kb/sql_injection#MySQL_String_Concatenation)
+- [Awesome WAF](https://github.com/0xInfection/Awesome-WAF)
+- [Google Dorks Cheat Sheet.](http://pdf.textfiles.com/security/googlehackers.pdf)
 
 ## MISC(Brute force,encode,decode,cipher)
 - [rumkin](http://rumkin.com/tools/cipher/)
@@ -93,8 +107,8 @@ Some tools and websites may useful in penetration.
 - [Ngrok](https://github.com/inconshreveable/ngrok)  
 - [FRP](https://github.com/fatedier/frp)  
 - [EarthWorm](http://rootkiter.com/EarthWorm/)is a portable network penetration tool with two core functions of SOCKS v5 service erection and port forwarding, which can complete network penetration in complex network environment. 
-- [reGeorg](https://github.com/sensepost/reGeorg)  
-
+- [ReGeorg](https://github.com/sensepost/reGeorg)  
+- [Proxychains](https://github.com/haad/proxychains)
 ## Backdoor
 - [The backdoor factory](https://github.com/secretsquirrel/the-backdoor-factory) The goal of BDF is to patch executable binaries with user desired shellcode and continue normal execution of the prepatched state.
 - [Shellter](https://github.com/r00t-3xp10it/venom/tree/master/obfuscate/shellter) is a dynamic shellcode injection tool aka dynamic PE infector. It can be used in order to inject shellcode into native Windows applications
