@@ -23,11 +23,12 @@ Some tools and websites may useful in penetration.
 - [*Burpsuite](https://portswigger.net/burp)
 
 ## Application Level Tools
-- [sqlmap](http://sqlmap.org/)
-- [wpscan](https://wpscan.org/)
+- [Sqlmap](http://sqlmap.org/)
+- [Wpscan](https://wpscan.org/)
 
 ## Password Relevant
-- [hashcat]
+- [hashcat](https://hashcat.net/hashcat/)
+- [John the Ripper](https://www.openwall.com/john/)
 
 ## System Vulnerability
 - [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
@@ -149,3 +150,4 @@ Some tools and websites may useful in penetration.
 - [OWASP](https://www.owasp.org/index.php/Main_Page)
 - [Owesome DevsecOps](https://github.com/devsecops/awesome-devsecops)
 - [Intranet Penetration Tips](https://github.com/Ridter/Intranet_Penetration_Tips)
+- [Awesome Pentest](https://github.com/enaqx/awesome-pentest)
