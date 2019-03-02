@@ -130,3 +130,5 @@ Some tools and websites may useful in penetration.
 - [Micro8](https://github.com/IversionBY/Micro8) 
 - [Intranet_Penetration_Tips](https://github.com/Ridter/Intranet_Penetration_Tips)
 - [OWASP](https://www.owasp.org/index.php/Main_Page)
+- [Owesome DevsecOps](https://github.com/devsecops/awesome-devsecops)
+- [Intranet Penetration Tips](https://github.com/Ridter/Intranet_Penetration_Tips)
