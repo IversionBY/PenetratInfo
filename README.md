@@ -1,7 +1,7 @@
 # Pentestinfo
-some  links  gathering 
+Some tools and websites may useful in penetration.
 
-## Information 
+## Information Gethering 
 - [Advantage search grammar](https://thief.one/2017/05/19/1/)
 - [netcraft](https://www.netcraft.com/)
 - [passwd list](https://wiki.skullsecurity.org/Passwords)
@@ -11,32 +11,34 @@ some  links  gathering
 - [lookup dns records](https://dnsdumpster.com/)
 - [threatbook](https://x.threatbook.cn/)
 - [List_of_TCP_and_UDP_port_numbers](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
-## System 
+
+## System Vulnerability
 - [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 - [Linux kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits)
 - [Windows exploits](https://github.com/SecWiki/windows-kernel-exploits)
 - [Tool using  public  databases to suggest windows expolits](https://github.com/GDSSecurity/Windows-Exploit-Suggester)
 - [Awesome tools to exploit Windows](https://github.com/Hack-with-Github/Windows)
 - [Awesome Windows Exploitation](https://github.com/enddo/awesome-windows-exploitation)
+
+
+## Vulnerability System
 - [vulnhub](https://www.vulnhub.com/)
 - [vulhub](https://vulhub.org/)
+- [Webgoat](https://github.com/WebGoat/WebGoat)
 
-## Web
+## Web Relevant Online Website
 - [What can I use](https://caniuse.com/)
 - [CSP evaluator](https://csp-evaluator.withgoogle.com/)
 - [Mozilla wen documents](https://developer.mozilla.org/zh-CN/docs/Web)
 - [Curesec blog](https://curesec.com/blog/)
-- [Webgoat](https://github.com/WebGoat/WebGoat)
 - [JWT online](https://jwt.io/)
 - [Broken browser](https://www.brokenbrowser.com/)
 - [JS beautiful](http://jsbeautifier.org/)
 - [JStillery](https://mindedsecurity.github.io/jstillery/)
 - [PHP packagist](https://packagist.org/)
-- [sql inject cheat sheet](https://websec.ca/kb/sql_injection#MySQL_String_Concatenation)
 
-## Comprehensive
-- [Pentestmonkey](http://pentestmonkey.net/)
-- [OWASP Cheat sheat](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series)
+
+## Existing Vulnerability Finding
 - [Gathering by chybeta](https://chybeta.github.io/2017/08/19/Web-Security-Learning/)
 - [0Day today](https://0day.today/)
 - [CVE list](https://cve.mitre.org/cve/search_cve_list.html)
@@ -45,7 +47,16 @@ some  links  gathering
 - [Cxsecurity](https://cxsecurity.com/)
 - [explainshell](https://www.explainshell.com/)
 - [kitploit tools introduction](https://www.kitploit.com/)
+- [searchsploit](https://www.exploit-db.com/searchsploit)
 
+## Malicious File Detection
+- [VirSCAN.org ](http://www.virscan.org)is a FREE on-line scan service, which checks uploaded files for malware, using antivirus engines, indicated in the VirSCAN list 
+- [Oletools](https://github.com/decalage2/oletools) is a package of python tools to analyze Microsoft OLE2 files(also called Structured Storage, Compound File Binary Format or Compound Document File Format), such as Microsoft Office documents or Outlook messages, mainly for malware analysis, forensics and debugging. 
+
+## Cheatsheet
+- [Pentestmonkey](http://pentestmonkey.net/)
+- [OWASP Cheat sheat](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series)
+- [sql inject cheat sheet](https://websec.ca/kb/sql_injection#MySQL_String_Concatenation)
 
 ## MISC(Brute force,encode,decode,cipher)
 - [rumkin](http://rumkin.com/tools/cipher/)
@@ -73,7 +84,25 @@ some  links  gathering
 - [jsaaencode](http://utf-8.jp/public/aaencode.html?src=)
 - [execute_malbolge_online](http://www.compileonline.com/execute_malbolge_online.php)
 
-## Intranet Penetration
+## Port Foward
+- [FRP](https://github.com/fatedier/frp/releases)   
+- [localtunnel](https://localtunnel.github.io/www/)  
+- [Ngrok](https://github.com/inconshreveable/ngrok)  
+- [FRP](https://github.com/fatedier/frp)  
+- [EarthWorm](http://rootkiter.com/EarthWorm/)is a portable network penetration tool with two core functions of SOCKS v5 service erection and port forwarding, which can complete network penetration in complex network environment. 
+- [reGeorg](https://github.com/sensepost/reGeorg)  
+
+## Backdoor
+- [The backdoor factory](https://github.com/secretsquirrel/the-backdoor-factory) The goal of BDF is to patch executable binaries with user desired shellcode and continue normal execution of the prepatched state.
+- [Shellter](https://github.com/r00t-3xp10it/venom/tree/master/obfuscate/shellter) is a dynamic shellcode injection tool aka dynamic PE infector. It can be used in order to inject shellcode into native Windows applications
+- [RootKits List Download](https://github.com/d30sa1/RootKits-List-Download) is the list of all rootkits found so far on github and other sites.
+- [veil](https://github.com/Veil-Framework/Veil) is a tool designed to generate metasploit payloads that bypass common anti-virus solutions.
+- [Ixkeylog](https://github.com/dorneanu/ixkeylog/) is a X11 keylogger for Unix that basically uses xlib to interact with users keyboard. IXKeyLog will listen for certain X11 events and then trigger specific routines to handle these events.
+- [SshLooter](https://github.com/mthbernardes/sshLooter) Script to steal passwords from ssh.
+- [Schtasks-Backdoor](https://github.com/re4lity/Schtasks-Backdoor) is a powshell back door
+- [Evilgrade](https://github.com/infobyte/evilgrade) is a modular framework that allows the user to take advantage of poor upgrade implementations by injecting fake updates.
+
+## Intranet Domain Penetration
 - [Termite](http://rootkiter.com/Termite/)  
 - [Empire](https://github.com/EmpireProject/Empire)  is a framework and collection of scripts and payloads which enables usage of PowerShell for offensive security, penetration testing and red teaming. Nishang is useful during all phases of penetration testing
 - [Nishang](https://github.com/samratashok/nishang)  is a framework and collection of scripts and payloads which enables usage of PowerShell for offensive security, penetration testing and red teaming. Nishang is useful during all phases of penetration testing
@@ -82,32 +111,20 @@ some  links  gathering
 - [mimikittenz](https://github.com/putterpanda/mimikittenz)   
 - [Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation)  
 - [BloodHound](https://github.com/BloodHoundAD/BloodHound)  
-- [FRP](https://github.com/fatedier/frp/releases)   
-- [localtunnel](https://localtunnel.github.io/www/)  
-- [Ngrok](https://github.com/inconshreveable/ngrok)  
-- [FRP](https://github.com/fatedier/frp)  
-- [EarthWorm](http://rootkiter.com/EarthWorm/)is a portable network penetration tool with two core functions of SOCKS v5 service erection and port forwarding, which can complete network penetration in complex network environment. 
-- [reGeorg](https://github.com/sensepost/reGeorg)  
-- [veil](https://github.com/Veil-Framework/Veil) is a tool designed to generate metasploit payloads that bypass common anti-virus solutions.
-- [Ixkeylog](https://github.com/dorneanu/ixkeylog/) is a X11 keylogger for Unix that basically uses xlib to interact with users keyboard. IXKeyLog will listen for certain X11 events and then trigger specific routines to handle these events.
 - [UACME](https://github.com/hfiref0x/UACME) Defeating Windows User Account Control by abusing built-in Windows AutoElevate backdoor.
 - [PowerShell-Suite](https://github.com/FuzzySecurity/PowerShell-Suite)  is a collection of PowerShell utilities which are great tools and resources online to accomplish most any task.
 - [Impacket](https://github.com/SecureAuthCorp/impacket) is a collection of Python classes for working with network protocols. Impacket is focused on providing low-level programmatic access to the packets and for some protocols (e.g. SMB1-3 and MSRPC) the protocol implementation itself. Packets can be constructed from scratch, as well as parsed from raw data, and the object oriented API makes it simple to work with deep hierarchies of protocols. The library provides a set of tools as examples of what can be done within the context of this library.
 - [PowerSploit](https://github.com/PowerShellMafia/PowerSploit/) is a collection of Microsoft PowerShell modules that can be used to aid penetration testers during all phases of an assessment. PowerSploit is comprised of the following modules and scripts.
-## backdoor
-- [The backdoor factory](https://github.com/secretsquirrel/the-backdoor-factory) The goal of BDF is to patch executable binaries with user desired shellcode and continue normal execution of the prepatched state.
-- [Shellter](https://github.com/r00t-3xp10it/venom/tree/master/obfuscate/shellter) is a dynamic shellcode injection tool aka dynamic PE infector. It can be used in order to inject shellcode into native Windows applications
-- [RootKits List Download](https://github.com/d30sa1/RootKits-List-Download) is the list of all rootkits found so far on github and other sites.
-## Other Tools
-- [Oletools](https://github.com/decalage2/oletools) is a package of python tools to analyze Microsoft OLE2 files(also called Structured Storage, Compound File Binary Format or Compound Document File Format), such as Microsoft Office documents or Outlook messages, mainly for malware analysis, forensics and debugging. 
-- [Wifiphisher](https://github.com/wifiphisher/wifiphisher) is a rogue Access Point framework for conducting red team engagements or Wi-Fi security testing.
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework)
 - [Koadic](https://github.com/zerosum0x0/koadic) is a Windows post-exploitation rootkit similar to other penetration testing tools such as Meterpreter and Powershell Empire.
-- [VirSCAN.org ](http://www.virscan.org)is a FREE on-line scan service, which checks uploaded files for malware, using antivirus engines, indicated in the VirSCAN list
+
+## Wifi Attack  Relevant
+- [Wifiphisher](https://github.com/wifiphisher/wifiphisher) is a rogue Access Point framework for conducting red team engagements or Wi-Fi security testing.
+
+## After Penetration
 - [Phant0m](https://artofpwn.com/phant0m-killing-windows-event-log.html) is a PowerShell script and targets the Windows Event Log Service in Windows operating system. 
-- [Schtasks-Backdoor](https://github.com/re4lity/Schtasks-Backdoor) is a powshell back door
-- [SshLooter](https://github.com/mthbernardes/sshLooter) Script to steal passwords from ssh.
-- [Evilgrade](https://github.com/infobyte/evilgrade) is a modular framework that allows the user to take advantage of poor upgrade implementations by injecting fake updates. 
-## Learning Link 
+
+## Studying Link 
 - [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)  is a library of simple tests that every security team can execute to test their controls. Tests are focused, have few dependencies, and are defined in a structured format that be used by automation frameworks.
 - [Kanxue college](https://www.kanxue.com/chm.htm) 
 - [Micro8](https://github.com/IversionBY/Micro8) 
