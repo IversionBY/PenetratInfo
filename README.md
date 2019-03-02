@@ -2,6 +2,9 @@
 Some tools and websites may useful in penetration.
 
 ## Information Gethering 
+- [Shodan](https://www.shodan.io/)
+- [Zoomeye](https://www.zoomeye.org/)
+- [censys](https://censys.io/)
 - [Advantage search grammar](https://thief.one/2017/05/19/1/)
 - [netcraft](https://www.netcraft.com/)
 - [passwd list](https://wiki.skullsecurity.org/Passwords)
