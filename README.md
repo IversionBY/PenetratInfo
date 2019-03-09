@@ -26,6 +26,7 @@ Some tools and websites may useful in penetration.
 ## Application Level Tools
 - [Sqlmap](http://sqlmap.org/)
 - [Wpscan](https://wpscan.org/)
+- [Struts-scan](https://github.com/Lucifer1993/struts-scan)
 
 ## Password Relevant
 - [hashcat](https://hashcat.net/hashcat/)
@@ -154,3 +155,4 @@ Some tools and websites may useful in penetration.
 - [Owesome DevsecOps](https://github.com/devsecops/awesome-devsecops)
 - [Intranet Penetration Tips](https://github.com/Ridter/Intranet_Penetration_Tips)
 - [Awesome Pentest](https://github.com/enaqx/awesome-pentest)
+- [Scanner-Box](https://github.com/We5ter/Scanners-Box)  is the toolbox of open source scanners
