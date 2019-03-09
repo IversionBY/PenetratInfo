@@ -20,7 +20,6 @@ Some tools and websites may useful in penetration.
 - [svnExploit](https://github.com/admintony/svnExploit/)
 - [Swp found cmd: vim -r index.php.swp](none)
 - [DS_store](https://github.com/lijiejie/ds_store_exp) A .DS_Store file disclosure exploit. It parse .DS_Store file and download files recursively.
-- []
 
 ## Tools For Scan
 - [Nmap](https://nmap.org/)
