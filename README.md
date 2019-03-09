@@ -1,4 +1,4 @@
-# Pentestinfo
+# PentestInfo
 Some tools and websites may useful in penetration.
 
 ## Information Gethering 
