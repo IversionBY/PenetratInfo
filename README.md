@@ -29,6 +29,7 @@ Some tools and websites may useful in penetration.
 - [Openvas](http://openvas.org/)
 - [*Burpsuite](https://portswigger.net/burp)
 - [Kubernetes Files Scanning](https://kubesec.io/)
+- [Nikto](https://github.com/sullo/nikto)
 
 ## Application Level Tools
 - [Sqlmap](http://sqlmap.org/)
