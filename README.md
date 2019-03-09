@@ -14,6 +14,13 @@ Some tools and websites may useful in penetration.
 - [lookup dns records](https://dnsdumpster.com/)
 - [threatbook](https://x.threatbook.cn/)
 - [List_of_TCP_and_UDP_port_numbers](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
+- [GitHack](https://github.com/lijiejie/GitHack) `.git` folder disclosure exploit
+- [repo-security-scanner](https://github.com/UKHomeOffice/repo-security-scanner) CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys
+- [dvcs-ripper](https://github.com/kost/dvcs-ripper) Rip web accessible (distributed) version control systems
+- [svnExploit](https://github.com/admintony/svnExploit/)
+- [Swp found cmd: vim -r index.php.swp](none)
+- [DS_store](https://github.com/lijiejie/ds_store_exp) A .DS_Store file disclosure exploit. It parse .DS_Store file and download files recursively.
+- []
 
 ## Tools For Scan
 - [Nmap](https://nmap.org/)
