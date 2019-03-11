@@ -76,16 +76,21 @@ Some tools and websites may useful in penetration.
 - [kitploit tools introduction](https://www.kitploit.com/)
 - [searchsploit](https://www.exploit-db.com/searchsploit)
 
-## Malicious File Detection
-- [VirSCAN.org ](http://www.virscan.org)is a FREE on-line scan service, which checks uploaded files for malware, using antivirus engines, indicated in the VirSCAN list 
-- [Oletools](https://github.com/decalage2/oletools) is a package of python tools to analyze Microsoft OLE2 files(also called Structured Storage, Compound File Binary Format or Compound Document File Format), such as Microsoft Office documents or Outlook messages, mainly for malware analysis, forensics and debugging. 
-
 ## Cheatsheet
 - [Pentestmonkey](http://pentestmonkey.net/)
 - [OWASP Cheat sheat](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series)
 - [sql inject cheat sheet](https://websec.ca/kb/sql_injection#MySQL_String_Concatenation)
 - [Awesome WAF](https://github.com/0xInfection/Awesome-WAF)
 - [Google Dorks Cheat Sheet.](http://pdf.textfiles.com/security/googlehackers.pdf)
+
+## Webshell
+- [Webshell](https://github.com/tennc/webshell)
+- [PHP Webshell](https://github.com/JohnTroony/php-webshells)
+- []()
+
+## Malicious File Detection
+- [VirSCAN.org ](http://www.virscan.org)is a FREE on-line scan service, which checks uploaded files for malware, using antivirus engines, indicated in the VirSCAN list 
+- [Oletools](https://github.com/decalage2/oletools) is a package of python tools to analyze Microsoft OLE2 files(also called Structured Storage, Compound File Binary Format or Compound Document File Format), such as Microsoft Office documents or Outlook messages, mainly for malware analysis, forensics and debugging. 
 
 ## Port Foward
 - [FRP](https://github.com/fatedier/frp/releases)   
