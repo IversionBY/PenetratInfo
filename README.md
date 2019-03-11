@@ -169,4 +169,5 @@ Some tools and websites may useful in penetration.
 - [Owesome DevsecOps](https://github.com/devsecops/awesome-devsecops)
 - [Intranet Penetration Tips](https://github.com/Ridter/Intranet_Penetration_Tips)
 - [Awesome Pentest](https://github.com/enaqx/awesome-pentest)
+- [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing)
 - [Scanner-Box](https://github.com/We5ter/Scanners-Box)  is the toolbox of open source scanners
