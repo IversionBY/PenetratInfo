@@ -48,10 +48,11 @@ Some tools and websites may useful in penetration.
 - [Awesome Windows Exploitation](https://github.com/enddo/awesome-windows-exploitation)
 
 ## Vulnerability System
-- [vulnhub](https://www.vulnhub.com/)
-- [vulhub](https://vulhub.org/)
+- [Vulnhub](https://www.vulnhub.com/)
+- [Vulhub](https://vulhub.org/)
 - [Webgoat](https://github.com/WebGoat/WebGoat)
-- [vulapps](http://vulapps.evalbug.com/)
+- [Vulapps](http://vulapps.evalbug.com/)
+- [bWAPP](http://www.itsecgames.com/)
 
 ## Web Relevant Online Website
 - [What can I use](https://caniuse.com/)
@@ -85,32 +86,6 @@ Some tools and websites may useful in penetration.
 - [sql inject cheat sheet](https://websec.ca/kb/sql_injection#MySQL_String_Concatenation)
 - [Awesome WAF](https://github.com/0xInfection/Awesome-WAF)
 - [Google Dorks Cheat Sheet.](http://pdf.textfiles.com/security/googlehackers.pdf)
-
-## MISC(Brute force,encode,decode,cipher)
-- [rumkin](http://rumkin.com/tools/cipher/)
-- [tomeko](http://tomeko.net/online_tools/)
-- [cryptool-online](https://www.cryptool.org/de/cryptool-online)
-- [cmd5](http://cmd5.com/)
-- [md5-decrypter](https://hashkiller.co.uk/md5-decrypter.aspx)
-- [CyberChef ](https://gchq.github.io/CyberChef/)
-- [md5hashing](https://md5hashing.net/text-debug)
-- [crackstation](https://crackstation.net/)
-- [freeformatter](https://www.freeformatter.com/)
-- [factordb](http://factordb.com/index.php)
-- [Run Sage code online](https://sagecell.sagemath.org/)
-- [Atbash cipher](https://planetcalc.com/4647/)
-- [Hill cipher](https://planetcalc.com/3327/)
-- [pigpen cipher](http://www.simonsingh.net/The_Black_Chamber/pigpen.html)
-- [gif-extract](https://zh.bloggif.com/gif-extract)
-- [fence password](https://www.qqxiuzi.cn/bianma/zhalanmima.php)
-- [file hash](http://www.atool.org/file_hash.php)
-- [QR code](http://jiema.wwei.cn/)
-- [barcode-reader](https://online-barcode-reader.inliteresearch.com/)
-- [MIME Headers Decoder](http://dogmamix.com/MimeHeadersDecoder/)
-- [jsfuck](http://www.jsfuck.com/)
-- [jsbrainfuck](https://www.nayuki.io/page/brainfuck-interpreter-javascript)
-- [jsaaencode](http://utf-8.jp/public/aaencode.html?src=)
-- [execute_malbolge_online](http://www.compileonline.com/execute_malbolge_online.php)
 
 ## Port Foward
 - [FRP](https://github.com/fatedier/frp/releases)   
@@ -149,9 +124,41 @@ Some tools and websites may useful in penetration.
 
 ## Wifi Attack  Relevant
 - [Wifiphisher](https://github.com/wifiphisher/wifiphisher) is a rogue Access Point framework for conducting red team engagements or Wi-Fi security testing.
+- [Aircrack](http://www.aircrack-ng.org) is a suite of tools for 802.11a/b/g WEP and WPA cracking. 
+- [Ettercap](http://www.ettercap-project.org/) is a comprehensive suite for man in the middle attacks.
+- [mdk3](https://github.com/wi-fi-analyzer/mdk3-master)
 
 ## After Penetration
-- [Phant0m](https://artofpwn.com/phant0m-killing-windows-event-log.html) is a PowerShell script and targets the Windows Event Log Service in Windows operating system. 
+- [Phant0m](https://artofpwn.com/phant0m-killing-windows-event-log.html) is a PowerShell script and targets the Windows Event Log Service in Windows operating system.
+- [Elsave](http://www.ibt.ku.dk/jesper/elsave/) is a tool to save and/or clear a NT event log.
+- [Clearlogs](https://github.com/maldevel/clearlogs) Clear All Windows System Logs - AntiForensics
+
+## MISC(Brute force,encode,decode,cipher)
+- [rumkin](http://rumkin.com/tools/cipher/)
+- [tomeko](http://tomeko.net/online_tools/)
+- [cryptool-online](https://www.cryptool.org/de/cryptool-online)
+- [cmd5](http://cmd5.com/)
+- [md5-decrypter](https://hashkiller.co.uk/md5-decrypter.aspx)
+- [CyberChef ](https://gchq.github.io/CyberChef/)
+- [md5hashing](https://md5hashing.net/text-debug)
+- [crackstation](https://crackstation.net/)
+- [freeformatter](https://www.freeformatter.com/)
+- [factordb](http://factordb.com/index.php)
+- [Run Sage code online](https://sagecell.sagemath.org/)
+- [Atbash cipher](https://planetcalc.com/4647/)
+- [Hill cipher](https://planetcalc.com/3327/)
+- [pigpen cipher](http://www.simonsingh.net/The_Black_Chamber/pigpen.html)
+- [gif-extract](https://zh.bloggif.com/gif-extract)
+- [fence password](https://www.qqxiuzi.cn/bianma/zhalanmima.php)
+- [file hash](http://www.atool.org/file_hash.php)
+- [QR code](http://jiema.wwei.cn/)
+- [barcode-reader](https://online-barcode-reader.inliteresearch.com/)
+- [MIME Headers Decoder](http://dogmamix.com/MimeHeadersDecoder/)
+- [jsfuck](http://www.jsfuck.com/)
+- [jsbrainfuck](https://www.nayuki.io/page/brainfuck-interpreter-javascript)
+- [jsaaencode](http://utf-8.jp/public/aaencode.html?src=)
+- [execute_malbolge_online](http://www.compileonline.com/execute_malbolge_online.php)
+
 
 ## Studying Link 
 - [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)  is a library of simple tests that every security team can execute to test their controls. Tests are focused, have few dependencies, and are defined in a structured format that be used by automation frameworks.
