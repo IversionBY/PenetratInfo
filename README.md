@@ -53,6 +53,7 @@ Some tools and websites may useful in penetration.
 - [Webgoat](https://github.com/WebGoat/WebGoat)
 - [Vulapps](http://vulapps.evalbug.com/)
 - [bWAPP](http://www.itsecgames.com/)
+- [DVWA](http://www.dvwa.co.uk/)
 
 ## Web Relevant Online Website
 - [What can I use](https://caniuse.com/)
@@ -65,6 +66,7 @@ Some tools and websites may useful in penetration.
 - [JStillery](https://mindedsecurity.github.io/jstillery/)
 - [PHP packagist](https://packagist.org/)
 
+
 ## Existing Vulnerability Finding
 - [Gathering by chybeta](https://chybeta.github.io/2017/08/19/Web-Security-Learning/)
 - [0Day today](https://0day.today/)
@@ -74,7 +76,8 @@ Some tools and websites may useful in penetration.
 - [Cxsecurity](https://cxsecurity.com/)
 - [explainshell](https://www.explainshell.com/)
 - [kitploit tools introduction](https://www.kitploit.com/)
-- [searchsploit](https://www.exploit-db.com/searchsploit)
+- [Searchsploit](https://www.exploit-db.com/searchsploit)
+- [Seebug](https://www.seebug.org/)
 
 ## Cheatsheet
 - [Pentestmonkey](http://pentestmonkey.net/)
@@ -86,7 +89,6 @@ Some tools and websites may useful in penetration.
 ## Webshell
 - [PHP Webshell](https://github.com/JohnTroony/php-webshells)
 - [Webshell](https://github.com/tennc/webshell)
-
 
 ## Code Review and some Challeges
 - [python](https://github.com/bit4woo/python_sec)
@@ -101,6 +103,7 @@ Some tools and websites may useful in penetration.
 - [Phpvulhunter](https://github.com/OneSourceCat/phpvulhunter)
 - [Rips](https://www.ripstech.com/)
 - [VCG](https://github.com/nccgroup/VCG)
+- [Bugscanner](http://tools.bugscaner.com/bugcode/)
 
 ## Frameworks and Components POC
 - [CMS-Hunter](https://github.com/SecWiki/CMS-Hunter)
