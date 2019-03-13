@@ -84,9 +84,29 @@ Some tools and websites may useful in penetration.
 - [Google Dorks Cheat Sheet.](http://pdf.textfiles.com/security/googlehackers.pdf)
 
 ## Webshell
-- [Webshell](https://github.com/tennc/webshell)
 - [PHP Webshell](https://github.com/JohnTroony/php-webshells)
-- []()
+- [Webshell](https://github.com/tennc/webshell)
+
+
+## Code Review and some Challeges
+- [python](https://github.com/bit4woo/python_sec)
+- [PHP-Audit-Labs](https://github.com/hongriSec/PHP-Audit-Labs)
+- [Code-Audit-Challenges](https://github.com/CHYbeta/Code-Audit-Challenges)
+- [Wonderkun CTF_web](https://github.com/wonderkun/CTF_web)
+- [pasc2cat](https://github.com/Jyny/pasc2at)
+
+## Code Review Scan Tools
+- [Cobra](https://github.com/WhaleShark-Team/cobra)
+- [Fortify SCA](https://www.microfocus.com/en-us/products/static-code-analysis-sast/overview)
+- [Phpvulhunter](https://github.com/OneSourceCat/phpvulhunter)
+- [Rips](https://www.ripstech.com/)
+- [VCG](https://github.com/nccgroup/VCG)
+
+## Frameworks and Components POC
+- [CMS-Hunter](https://github.com/SecWiki/CMS-Hunter)
+- [PHP-code-audit](https://github.com/jiangsir404/PHP-code-audit)
+- [POC-Collect](https://github.com/Mr5m1th/POC-Collect)
+
 
 ## Malicious File Detection
 - [VirSCAN.org ](http://www.virscan.org)is a FREE on-line scan service, which checks uploaded files for malware, using antivirus engines, indicated in the VirSCAN list 
