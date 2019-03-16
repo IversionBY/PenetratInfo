@@ -35,6 +35,11 @@ Some tools and websites may useful in penetration.
 - [Wpscan](https://wpscan.org/)
 - [Struts-scan](https://github.com/Lucifer1993/struts-scan)
 
+## Denial of service
+- [sloworis](https://github.com/gkbrk/slowloris)
+- [slowhttptest](https://github.com/shekyan/slowhttptest)
+- [LOIC](https://github.com/NewEraCracker/LOIC)
+
 ## Password Relevant
 - [hashcat](https://hashcat.net/hashcat/)
 - [John the Ripper](https://www.openwall.com/john/)
