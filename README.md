@@ -204,3 +204,4 @@ Some tools and websites may useful in penetration.
 - [Awesome Pentest](https://github.com/enaqx/awesome-pentest)
 - [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing)
 - [Scanner-Box](https://github.com/We5ter/Scanners-Box)  is the toolbox of open source scanners
+- [Mind Map](https://github.com/phith0n/Mind-Map)
