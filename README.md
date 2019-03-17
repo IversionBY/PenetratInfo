@@ -30,10 +30,12 @@ Some tools and websites may useful in penetration.
 - [Kubernetes Files Scanning](https://kubesec.io/)
 - [Nikto](https://github.com/sullo/nikto)
 
+
 ## Application Level Tools
 - [Sqlmap](http://sqlmap.org/)
 - [Wpscan](https://wpscan.org/)
 - [Struts-scan](https://github.com/Lucifer1993/struts-scan)
+- [Arachni-scanner](https://www.arachni-scanner.com/)
 
 ## Denial of service
 - [sloworis](https://github.com/gkbrk/slowloris)
