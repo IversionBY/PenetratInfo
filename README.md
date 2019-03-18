@@ -36,6 +36,7 @@ Some tools and websites may useful in penetration.
 - [Wpscan](https://wpscan.org/)
 - [Struts-scan](https://github.com/Lucifer1993/struts-scan)
 - [Arachni-scanner](https://www.arachni-scanner.com/)
+- [Xsstrike](https://github.com/s0md3v/XSStrike)
 
 ## Denial of service
 - [sloworis](https://github.com/gkbrk/slowloris)
