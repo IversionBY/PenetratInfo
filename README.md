@@ -159,6 +159,7 @@ Some tools and websites may useful in penetration.
 - [PowerSploit](https://github.com/PowerShellMafia/PowerSploit/) is a collection of Microsoft PowerShell modules that can be used to aid penetration testers during all phases of an assessment. PowerSploit is comprised of the following modules and scripts.
 - [metasploit-framework](https://github.com/rapid7/metasploit-framework)
 - [Koadic](https://github.com/zerosum0x0/koadic) is a Windows post-exploitation rootkit similar to other penetration testing tools such as Meterpreter and Powershell Empire.
+- [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec/)
 
 ## Wifi Attack  Relevant
 - [Wifiphisher](https://github.com/wifiphisher/wifiphisher) is a rogue Access Point framework for conducting red team engagements or Wi-Fi security testing.
