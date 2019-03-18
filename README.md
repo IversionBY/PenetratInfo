@@ -47,7 +47,6 @@ Some tools and websites may useful in penetration.
 - [John the Ripper](https://www.openwall.com/john/)
 
 ## System Vulnerability
-- [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 - [Linux kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits)
 - [Windows exploits](https://github.com/SecWiki/windows-kernel-exploits)
 - [Tool using  public  databases to suggest windows expolits](https://github.com/GDSSecurity/Windows-Exploit-Suggester)
@@ -88,6 +87,8 @@ Some tools and websites may useful in penetration.
 
 ## Cheatsheet
 - [Pentestmonkey](http://pentestmonkey.net/)
+- [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
+- [Penetration Testing Tools Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
 - [OWASP Cheat sheat](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series)
 - [sql inject cheat sheet](https://websec.ca/kb/sql_injection#MySQL_String_Concatenation)
 - [Awesome WAF](https://github.com/0xInfection/Awesome-WAF)
@@ -141,6 +142,7 @@ Some tools and websites may useful in penetration.
 - [SshLooter](https://github.com/mthbernardes/sshLooter) Script to steal passwords from ssh.
 - [Schtasks-Backdoor](https://github.com/re4lity/Schtasks-Backdoor) is a powshell back door
 - [Evilgrade](https://github.com/infobyte/evilgrade) is a modular framework that allows the user to take advantage of poor upgrade implementations by injecting fake updates.
+- [Luckystrike](https://github.com/curi0usJack/luckystrike) A PowerShell based utility for the creation of malicious Office macro documents.
 
 ## Intranet Domain Penetration
 - [Termite](http://rootkiter.com/Termite/)  
@@ -209,3 +211,4 @@ Some tools and websites may useful in penetration.
 - [Scanner-Box](https://github.com/We5ter/Scanners-Box)  is the toolbox of open source scanners
 - [Mind Map](https://github.com/phith0n/Mind-Map)
 - [sec-chart](https://github.com/SecWiki/sec-chart)
+- [Seclists](https://github.com/danielmiessler/SecLists)
