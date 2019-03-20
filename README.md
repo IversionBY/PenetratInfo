@@ -96,9 +96,11 @@ Some tools and websites may useful in penetration.
 - [Google Dorks Cheat Sheet.](http://pdf.textfiles.com/security/googlehackers.pdf)
 - [OWASP-Web-Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
 
-## Webshell
+## Webshell and payload
 - [PHP Webshell](https://github.com/JohnTroony/php-webshells)
 - [Webshell](https://github.com/tennc/webshell)
+- [Payloads](https://github.com/foospidy/payloads#miscellaneous)
+
 
 ## Code Review and some Challeges
 - [python](https://github.com/bit4woo/python_sec)
