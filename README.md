@@ -90,6 +90,7 @@ Some tools and websites may useful in penetration.
 - [Pentestmonkey](http://pentestmonkey.net/)
 - [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 - [Penetration Testing Tools Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
+- [OWASP_Testing_Guide_v4_Table_of_Contents](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
 - [OWASP Cheat sheat](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series)
 - [sql inject cheat sheet](https://websec.ca/kb/sql_injection#MySQL_String_Concatenation)
 - [Awesome WAF](https://github.com/0xInfection/Awesome-WAF)
