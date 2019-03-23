@@ -96,6 +96,7 @@ Some tools and websites may useful in penetration.
 - [Awesome WAF](https://github.com/0xInfection/Awesome-WAF)
 - [Google Dorks Cheat Sheet.](http://pdf.textfiles.com/security/googlehackers.pdf)
 - [OWASP-Web-Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
+- [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS)
 
 ## Webshell and payload
 - [PHP Webshell](https://github.com/JohnTroony/php-webshells)
