@@ -29,6 +29,7 @@ Some tools and websites may useful in penetration.
 - [*Burpsuite](https://portswigger.net/burp)
 - [Kubernetes Files Scanning](https://kubesec.io/)
 - [Nikto](https://github.com/sullo/nikto)
+- [WhatWeb](https://github.com/urbanadventurer/WhatWeb)
 
 
 ## Application Level Tools
@@ -38,7 +39,7 @@ Some tools and websites may useful in penetration.
 - [Arachni-scanner](https://www.arachni-scanner.com/)
 - [Xsstrike](https://github.com/s0md3v/XSStrike)
 
-## Denial of service
+## Denial Of Service
 - [sloworis](https://github.com/gkbrk/slowloris)
 - [slowhttptest](https://github.com/shekyan/slowhttptest)
 - [LOIC](https://github.com/NewEraCracker/LOIC)
@@ -99,13 +100,13 @@ Some tools and websites may useful in penetration.
 - [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS)
 - [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)
 
-## Webshell and payload
+## Webshell And Payload
 - [PHP Webshell](https://github.com/JohnTroony/php-webshells)
 - [Webshell](https://github.com/tennc/webshell)
 - [Payloads](https://github.com/foospidy/payloads#miscellaneous)
 
 
-## Code Review and some Challeges
+## Code Review And Some Challeges
 - [python](https://github.com/bit4woo/python_sec)
 - [PHP-Audit-Labs](https://github.com/hongriSec/PHP-Audit-Labs)
 - [Code-Audit-Challenges](https://github.com/CHYbeta/Code-Audit-Challenges)
@@ -167,7 +168,7 @@ Some tools and websites may useful in penetration.
 - [Koadic](https://github.com/zerosum0x0/koadic) is a Windows post-exploitation rootkit similar to other penetration testing tools such as Meterpreter and Powershell Empire.
 - [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec/)
 
-## Wifi Attack  Relevant
+## Wifi Attack Relevant
 - [Wifiphisher](https://github.com/wifiphisher/wifiphisher) is a rogue Access Point framework for conducting red team engagements or Wi-Fi security testing.
 - [Aircrack](http://www.aircrack-ng.org) is a suite of tools for 802.11a/b/g WEP and WPA cracking. 
 - [Ettercap](http://www.ettercap-project.org/) is a comprehensive suite for man in the middle attacks.
