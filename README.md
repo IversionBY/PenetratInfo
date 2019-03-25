@@ -2,18 +2,20 @@
 Some tools and websites may useful in penetration.
 
 ## Information Gethering 
+
+### IP And DNS
 - [Shodan](https://www.shodan.io/)
 - [Zoomeye](https://www.zoomeye.org/)
 - [censys](https://censys.io/)
 - [Advantage search grammar](https://thief.one/2017/05/19/1/)
 - [netcraft](https://www.netcraft.com/)
-- [passwd list](https://wiki.skullsecurity.org/Passwords)
-- [fuzzdb](https://github.com/fuzzdb-project/fuzzdb)
 - [ssl certificate search](https://crt.sh)
 - [zone-transger](https://hackertarget.com/zone-transfer/)
 - [lookup dns records](https://dnsdumpster.com/)
 - [threatbook](https://x.threatbook.cn/)
 - [List_of_TCP_and_UDP_port_numbers](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
+
+### Information leakage
 - [GitHack](https://github.com/lijiejie/GitHack) `.git` folder disclosure exploit
 - [repo-security-scanner](https://github.com/UKHomeOffice/repo-security-scanner) CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys
 - [dvcs-ripper](https://github.com/kost/dvcs-ripper) Rip web accessible (distributed) version control systems
@@ -21,7 +23,18 @@ Some tools and websites may useful in penetration.
 - [Swp found cmd: vim -r index.php.swp](none)
 - [DS_store](https://github.com/lijiejie/ds_store_exp) A .DS_Store file disclosure exploit. It parse .DS_Store file and download files recursively.
 
-## Tools For Scan
+## Denial Of Service
+- [sloworis](https://github.com/gkbrk/slowloris)
+- [slowhttptest](https://github.com/shekyan/slowhttptest)
+- [LOIC](https://github.com/NewEraCracker/LOIC)
+
+## Scan
+
+### Identify
+- [WhatWeb](https://github.com/urbanadventurer/WhatWeb)
+- [Wafw00f](https://github.com/EnableSecurity/wafw00f)
+
+### Tools For Overall Scan
 - [Nmap](https://nmap.org/)
 - [OWASP Zap](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
 - [OWTF](https://owtf.github.io/#download)
@@ -29,22 +42,21 @@ Some tools and websites may useful in penetration.
 - [*Burpsuite](https://portswigger.net/burp)
 - [Kubernetes Files Scanning](https://kubesec.io/)
 - [Nikto](https://github.com/sullo/nikto)
-- [WhatWeb](https://github.com/urbanadventurer/WhatWeb)
 
-
-## Application Level Tools
+### Web Applications Scan Tools
 - [Sqlmap](http://sqlmap.org/)
 - [Wpscan](https://wpscan.org/)
 - [Struts-scan](https://github.com/Lucifer1993/struts-scan)
 - [Arachni-scanner](https://www.arachni-scanner.com/)
 - [Xsstrike](https://github.com/s0md3v/XSStrike)
 
-## Denial Of Service
-- [sloworis](https://github.com/gkbrk/slowloris)
-- [slowhttptest](https://github.com/shekyan/slowhttptest)
-- [LOIC](https://github.com/NewEraCracker/LOIC)
+## Fuzz and Password
+- [Fuzzdb](https://github.com/fuzzdb-project/fuzzdb)
+- [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing)
+- [Passwd list](https://wiki.skullsecurity.org/Passwords)hy
+- [Hydra](https://github.com/vanhauser-thc/thc-hydra)
 
-## Password Relevant
+## Password Hash
 - [hashcat](https://hashcat.net/hashcat/)
 - [John the Ripper](https://www.openwall.com/john/)
 
@@ -62,6 +74,7 @@ Some tools and websites may useful in penetration.
 - [Vulapps](http://vulapps.evalbug.com/)
 - [bWAPP](http://www.itsecgames.com/)
 - [DVWA](http://www.dvwa.co.uk/)
+- [Sqli labs](https://github.com/Audi-1/sqli-labs)
 
 ## Web Relevant Online Website
 - [What can I use](https://caniuse.com/)
@@ -73,7 +86,6 @@ Some tools and websites may useful in penetration.
 - [JS beautiful](http://jsbeautifier.org/)
 - [JStillery](https://mindedsecurity.github.io/jstillery/)
 - [PHP packagist](https://packagist.org/)
-
 
 ## Existing Vulnerability Finding
 - [Gathering by chybeta](https://chybeta.github.io/2017/08/19/Web-Security-Learning/)
@@ -215,8 +227,10 @@ Some tools and websites may useful in penetration.
 - [Owesome DevsecOps](https://github.com/devsecops/awesome-devsecops)
 - [Intranet Penetration Tips](https://github.com/Ridter/Intranet_Penetration_Tips)
 - [Awesome Pentest](https://github.com/enaqx/awesome-pentest)
-- [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing)
 - [Scanner-Box](https://github.com/We5ter/Scanners-Box)  is the toolbox of open source scanners
 - [Mind Map](https://github.com/phith0n/Mind-Map)
 - [sec-chart](https://github.com/SecWiki/sec-chart)
 - [Seclists](https://github.com/danielmiessler/SecLists)
+
+## Other Resource
+- [TOOLS](https://www.t00ls.net/pytools.html)
