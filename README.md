@@ -1,7 +1,7 @@
 # PentestInfo
 Some tools and websites may useful in penetration.
 
-<!--TOC-->
+[TOC]
 
 ## 0X01 Information Gethering 
 
