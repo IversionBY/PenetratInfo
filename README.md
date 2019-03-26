@@ -262,7 +262,7 @@ Some tools and websites may useful in penetration.
 - [Mind Map](https://github.com/phith0n/Mind-Map)
 - [sec-chart](https://github.com/SecWiki/sec-chart)
 - [Seclists](https://github.com/danielmiessler/SecLists)
-
+- [SecurityDoucument](https://github.com/bollwarm/SecToolSet/blob/master/SecurityDoucument.md)
 ## Other Resource
 - [TOOLS](https://www.t00ls.net/pytools.html)
 
