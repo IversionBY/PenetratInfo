@@ -248,6 +248,9 @@ Some tools and websites may useful in penetration.
 - [bWAPP](http://www.itsecgames.com/)
 - [DVWA](http://www.dvwa.co.uk/)
 - [Sqli labs](https://github.com/Audi-1/sqli-labs)
+- [XSS quiz](http://xss-quiz.int21h.jp/) answer:http://blog.knownsec.com/Knownsec_RD_Checklist/res/xss_quiz.txt
+- [Prompt](http://prompt.ml/0) answer:https://github.com/cure53/XSSChallengeWiki/wiki/prompt.ml
+- [Alert1](https://alf.nu/alert1) answer:
 
 ## 0x22 Learn More 
 - [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)  is a library of simple tests that every security team can execute to test their controls. Tests are focused, have few dependencies, and are defined in a structured format that be used by automation frameworks.
