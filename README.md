@@ -265,6 +265,7 @@ Some tools and websites may useful in penetration.
 - [SecurityDoucument](https://github.com/bollwarm/SecToolSet/blob/master/SecurityDoucument.md)
 ## Other Resource
 - [TOOLS](https://www.t00ls.net/pytools.html)
+- [Knownsec RD Checklist](http://blog.knownsec.com/Knownsec_RD_Checklist/)
 
 
 
