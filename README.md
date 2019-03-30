@@ -185,6 +185,8 @@ Some tools and websites may useful in penetration.
 - [Schtasks-Backdoor](https://github.com/re4lity/Schtasks-Backdoor) is a powshell back door
 - [Evilgrade](https://github.com/infobyte/evilgrade) is a modular framework that allows the user to take advantage of poor upgrade implementations by injecting fake updates.
 - [Luckystrike](https://github.com/curi0usJack/luckystrike) A PowerShell based utility for the creation of malicious Office macro documents.
+- [DNS-Shell](https://github.com/sensepost/DNS-Shell) is an interactive Shell over DNS channel.
+- [Icmpsh](https://github.com/inquisb/icmpsh)
 
 ## 0X17 Intranet Domain Penetration
 - [Termite](http://rootkiter.com/Termite/)  
