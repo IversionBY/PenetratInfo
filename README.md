@@ -114,6 +114,7 @@ Some tools and websites may useful in penetration.
 - [Gathering by chybeta](https://chybeta.github.io/2017/08/19/Web-Security-Learning/)
 - [0Day today](https://0day.today/)
 - [CVE list](https://cve.mitre.org/cve/search_cve_list.html)
+- [CVEdetails](https://www.cvedetails.com/index.php)
 - [Exploitdb](https://www.exploit-db.com/)
 - [Seclists](http://seclists.org/fulldisclosure/)
 - [Cxsecurity](https://cxsecurity.com/)
