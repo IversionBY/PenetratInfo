@@ -218,7 +218,7 @@ Some tools and websites may useful in penetration.
 - [Phant0m](https://artofpwn.com/phant0m-killing-windows-event-log.html) is a PowerShell script and targets the Windows Event Log Service in Windows operating system.
 - [Elsave](http://www.ibt.ku.dk/jesper/elsave/) is a tool to save and/or clear a NT event log.
 - [Clearlogs](https://github.com/maldevel/clearlogs) Clear All Windows System Logs - AntiForensics
-- [Browser Cache View](http://nirsoft.net/utils/chrome_cache_view.html)
+- [Nirsoft](http://www.nirsoft.net/) browser cache,password recovery,password cache......
 
 ## 0X20 MISC(Brute force,encode,decode,cipher)
 - [rumkin](http://rumkin.com/tools/cipher/)
