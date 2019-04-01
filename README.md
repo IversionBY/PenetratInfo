@@ -68,6 +68,7 @@ Some tools and websites may useful in penetration.
 
 ### Tools For Overall Scan
 - [Nmap](https://nmap.org/)
+- [msscan](https://github.com/robertdavidgraham/masscan)
 - [OWASP Zap](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
 - [OWTF](https://owtf.github.io/#download)
 - [Openvas](http://openvas.org/)
