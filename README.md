@@ -47,6 +47,7 @@ Some tools and websites may useful in penetration.
 - [threatbook](https://x.threatbook.cn/)
 - [List_of_TCP_and_UDP_port_numbers](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
 
+
 ### Information leakage
 - [GitHack](https://github.com/lijiejie/GitHack) `.git` folder disclosure exploit
 - [repo-security-scanner](https://github.com/UKHomeOffice/repo-security-scanner) CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys
@@ -217,6 +218,7 @@ Some tools and websites may useful in penetration.
 - [Phant0m](https://artofpwn.com/phant0m-killing-windows-event-log.html) is a PowerShell script and targets the Windows Event Log Service in Windows operating system.
 - [Elsave](http://www.ibt.ku.dk/jesper/elsave/) is a tool to save and/or clear a NT event log.
 - [Clearlogs](https://github.com/maldevel/clearlogs) Clear All Windows System Logs - AntiForensics
+- [Browser Cache View](http://nirsoft.net/utils/chrome_cache_view.html)
 
 ## 0X20 MISC(Brute force,encode,decode,cipher)
 - [rumkin](http://rumkin.com/tools/cipher/)
