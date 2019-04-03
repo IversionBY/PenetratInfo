@@ -76,6 +76,7 @@ Some tools and websites may useful in penetration.
 - [*Burpsuite](https://portswigger.net/burp)
 - [Kubernetes Files Scanning](https://kubesec.io/)
 - [Nikto](https://github.com/sullo/nikto)
+- [Fiddler](https://www.telerik.com/download/fiddler)
 
 ### Web Applications Scan Tools
 - [Sqlmap](http://sqlmap.org/)
