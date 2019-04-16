@@ -273,6 +273,7 @@ Some tools and websites may useful in penetration.
 - [sec-chart](https://github.com/SecWiki/sec-chart)
 - [Seclists](https://github.com/danielmiessler/SecLists)
 - [SecurityDoucument](https://github.com/bollwarm/SecToolSet/blob/master/SecurityDoucument.md)
+- [Ired Team](https://ired.team/)
 ## Other Resource
 - [TOOLS](https://www.t00ls.net/pytools.html)
 - [Knownsec RD Checklist](http://blog.knownsec.com/Knownsec_RD_Checklist/)
