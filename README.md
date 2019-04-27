@@ -191,6 +191,8 @@ Some tools and websites may useful in penetration.
 - [Luckystrike](https://github.com/curi0usJack/luckystrike) A PowerShell based utility for the creation of malicious Office macro documents.
 - [DNS-Shell](https://github.com/sensepost/DNS-Shell) is an interactive Shell over DNS channel.
 - [Icmpsh](https://github.com/inquisb/icmpsh)
+- [Office cve1027-8570](https://github.com/rxwx/CVE-2017-8570)
+- [Winrar cve2018-20250](https://github.com/WyAtu/CVE-2018-20250)
 
 ## 0X17 Intranet Domain Penetration
 - [Termite](http://rootkiter.com/Termite/)  
@@ -216,6 +218,7 @@ Some tools and websites may useful in penetration.
 - [mdk3](https://github.com/wi-fi-analyzer/mdk3-master)
 
 ## 0X19 After Penetration
+- [LaZagne project](https://github.com/AlessandroZ/LaZagne) is an open source application used to retrieve lots of passwords stored on a local computer.
 - [Phant0m](https://artofpwn.com/phant0m-killing-windows-event-log.html) is a PowerShell script and targets the Windows Event Log Service in Windows operating system.
 - [Elsave](http://www.ibt.ku.dk/jesper/elsave/) is a tool to save and/or clear a NT event log.
 - [Clearlogs](https://github.com/maldevel/clearlogs) Clear All Windows System Logs - AntiForensics
