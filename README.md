@@ -215,8 +215,8 @@ Some tools and websites may useful in penetration.
 - [Wifiphisher](https://github.com/wifiphisher/wifiphisher) is a rogue Access Point framework for conducting red team engagements or Wi-Fi security testing.
 - [Aircrack](http://www.aircrack-ng.org) is a suite of tools for 802.11a/b/g WEP and WPA cracking. 
 - [Ettercap](http://www.ettercap-project.org/) is a comprehensive suite for man in the middle attacks.
-- [mdk3](https://github.com/wi-fi-analyzer/mdk3-master)
-- [RouterSoloit](https://github.com/threat9/routersploit)
+- [mdk3](https://github.com/wi-fi-analyzer/mdk3-master) is a proof-of-concept tool to exploit common IEEE 802.11 protocol weaknesses.
+- [RouterSoloit](https://github.com/threat9/routersploit)  is an open-source exploitation framework dedicated to embedded devices.
 
 ## 0X19 After Penetration
 - [LaZagne project](https://github.com/AlessandroZ/LaZagne) is an open source application used to retrieve lots of passwords stored on a local computer.
