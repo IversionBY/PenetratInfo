@@ -216,6 +216,7 @@ Some tools and websites may useful in penetration.
 - [Aircrack](http://www.aircrack-ng.org) is a suite of tools for 802.11a/b/g WEP and WPA cracking. 
 - [Ettercap](http://www.ettercap-project.org/) is a comprehensive suite for man in the middle attacks.
 - [mdk3](https://github.com/wi-fi-analyzer/mdk3-master)
+- [RouterSoloit](https://github.com/threat9/routersploit)
 
 ## 0X19 After Penetration
 - [LaZagne project](https://github.com/AlessandroZ/LaZagne) is an open source application used to retrieve lots of passwords stored on a local computer.
