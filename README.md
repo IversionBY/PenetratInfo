@@ -78,6 +78,9 @@ Some tools and websites may useful in penetration.
 - [Kubernetes Files Scanning](https://kubesec.io/)
 - [Nikto](https://github.com/sullo/nikto)
 - [Fiddler](https://www.telerik.com/download/fiddler)
+- [w3af](https://github.com/andresriancho/w3af)
+- [Mantra](https://www.owasp.org/index.php/OWASP_Mantra_-_Security_Framework#tab=Downloads)
+
 
 ### Web Applications Scan Tools
 - [Sqlmap](http://sqlmap.org/)
