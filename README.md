@@ -184,6 +184,7 @@ Some tools and websites may useful in penetration.
 - [Proxychains](https://github.com/haad/proxychains)
 
 ## 0X16 Backdoor
+- [cymothoa](https://github.com/jorik041/cymothoa) is a stealth backdooring tool, that inject backdoor’s shellcode into an existing process. The tool uses the ptrace library (available on nearly all * nix), to manipulate processes and infect them.
 - [The backdoor factory](https://github.com/secretsquirrel/the-backdoor-factory) The goal of BDF is to patch executable binaries with user desired shellcode and continue normal execution of the prepatched state.
 - [Shellter](https://github.com/r00t-3xp10it/venom/tree/master/obfuscate/shellter) is a dynamic shellcode injection tool aka dynamic PE infector. It can be used in order to inject shellcode into native Windows applications
 - [RootKits List Download](https://github.com/d30sa1/RootKits-List-Download) is the list of all rootkits found so far on github and other sites.
