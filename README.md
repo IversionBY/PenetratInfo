@@ -129,6 +129,9 @@ Some tools and websites may useful in penetration.
 - [kitploit tools introduction](https://www.kitploit.com/)
 - [Searchsploit](https://www.exploit-db.com/searchsploit)
 - [Seebug](https://www.seebug.org/)
+- [Linux Kernel Exploit Suggester](https://github.com/mzet-/linux-exploit-suggester)
+- [Next-Generation Linux Kernel Exploit Suggester](https://github.com/jondonas/linux-exploit-suggester-2)
+
 
 ## 0X09 Cheatsheet
 - [Pentestmonkey](http://pentestmonkey.net/)
