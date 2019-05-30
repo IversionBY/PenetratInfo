@@ -9,7 +9,7 @@
         - [Tools For Overall Scan](#Tools-For-Overall-Scan)
         - [Web Applications Scan Tools](#Web-Applications-Scan-Tools)
     - [0X04 Fuzz and Password](#0X04-Fuzz-and-Password)
-    - [0X05 Password](#0X05-Password-Hash)
+    - [0X05 Password crack](#0X05-Password-Hash)
     - [0X06 System Vulnerability](#0X06-System-Vulnerability)
     - [0X07 Web Relevant Online Website](#0X07-Web-Relevant-Online-Website)
     - [0X08 Existing Vulnerability Finding](#0X08-Existing-Vulnerability-Finding)
@@ -94,11 +94,12 @@ Some tools and websites may useful in penetration.
 - [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing)
 - [Passwd list](https://wiki.skullsecurity.org/Passwords)hy
 - [Hydra](https://github.com/vanhauser-thc/thc-hydra)
+- [Pydictor](https://github.com/LandGrey/pydictor/blob/master/README_CN.md)
 
-## 0X05 Password
+## 0X05 Password Crack
 - [hashcat](https://hashcat.net/hashcat/)
 - [John the Ripper](https://www.openwall.com/john/)
-- [Pydictor](https://github.com/LandGrey/pydictor/blob/master/README_CN.md)
+
 
 ## 0X06 System Vulnerability
 - [Linux kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits)
