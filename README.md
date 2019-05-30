@@ -131,7 +131,7 @@ Some tools and websites may useful in penetration.
 - [Seebug](https://www.seebug.org/)
 - [Linux Kernel Exploit Suggester](https://github.com/mzet-/linux-exploit-suggester)
 - [Next-Generation Linux Kernel Exploit Suggester](https://github.com/jondonas/linux-exploit-suggester-2)
-
+- [Vuldb](https://vuldb.com/)
 
 ## 0X09 Cheatsheet
 - [Pentestmonkey](http://pentestmonkey.net/)
