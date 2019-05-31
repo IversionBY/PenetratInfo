@@ -220,15 +220,21 @@ Some tools and websites may useful in penetration.
 - [PowerSploit](https://github.com/PowerShellMafia/PowerSploit/) is a collection of Microsoft PowerShell modules that can be used to aid penetration testers during all phases of an assessment. PowerSploit is comprised of the following modules and scripts.
 - [metasploit-framework](https://github.com/rapid7/metasploit-framework)
 - [Koadic](https://github.com/zerosum0x0/koadic) is a Windows post-exploitation rootkit similar to other penetration testing tools such as Meterpreter and Powershell Empire.
-- [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec/)
+- [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec/) is designed to be used in testing and discovering flaws in one's own network with the aim of fixing the flaws detected.
 
 ## 0X18 Wifi Attack Relevant
 - [Wifiphisher](https://github.com/wifiphisher/wifiphisher) is a rogue Access Point framework for conducting red team engagements or Wi-Fi security testing.
 - [Aircrack](http://www.aircrack-ng.org) is a suite of tools for 802.11a/b/g WEP and WPA cracking. 
+- [Wifite2](https://github.com/derv82/wifite2)
 - [Ettercap](http://www.ettercap-project.org/) is a comprehensive suite for man in the middle attacks.
 - [mdk3](https://github.com/wi-fi-analyzer/mdk3-master) is a proof-of-concept tool to exploit common IEEE 802.11 protocol weaknesses.
 - [RouterSoloit](https://github.com/threat9/routersploit)  is an open-source exploitation framework dedicated to embedded devices.
-
+- [Fern wifi cracker](https://github.com/savio-code/fern-wifi-cracker)
+- [Gerix wifi cracker 2](https://github.com/wi-fi-analyzer/gerix-wifi-cracker-2)
+- [ghost-phisher](https://github.com/savio-code/ghost-phisher)
+- [cowpatty](https://github.com/joswr1ght/cowpatty)
+- [Pyrit](https://github.com/JPaulMora/Pyrit)
+- [WiFi Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin)
 ## 0X19 After Penetration
 - [LaZagne project](https://github.com/AlessandroZ/LaZagne) is an open source application used to retrieve lots of passwords stored on a local computer.
 - [Phant0m](https://artofpwn.com/phant0m-killing-windows-event-log.html) is a PowerShell script and targets the Windows Event Log Service in Windows operating system.
