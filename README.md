@@ -203,6 +203,7 @@ Some tools and websites may useful in penetration.
 - [DNS-Shell](https://github.com/sensepost/DNS-Shell) is an interactive Shell over DNS channel.
 - [Icmpsh](https://github.com/inquisb/icmpsh)
 - [Office cve1027-8570](https://github.com/rxwx/CVE-2017-8570)
+- [CVE-2017-11882](https://github.com/Ridter/CVE-2017-11882) 
 - [Winrar cve2018-20250](https://github.com/WyAtu/CVE-2018-20250)
 
 ## 0X17 Intranet Domain Penetration
@@ -235,6 +236,7 @@ Some tools and websites may useful in penetration.
 - [cowpatty](https://github.com/joswr1ght/cowpatty)
 - [Pyrit](https://github.com/JPaulMora/Pyrit)
 - [WiFi Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin)
+
 ## 0X19 After Penetration
 - [LaZagne project](https://github.com/AlessandroZ/LaZagne) is an open source application used to retrieve lots of passwords stored on a local computer.
 - [Phant0m](https://artofpwn.com/phant0m-killing-windows-event-log.html) is a PowerShell script and targets the Windows Event Log Service in Windows operating system.
