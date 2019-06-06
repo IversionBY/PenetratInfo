@@ -50,6 +50,7 @@ Some tools and websites may useful in penetration.
 
 ### Information leakage
 - [GitHack](https://github.com/lijiejie/GitHack) `.git` folder disclosure exploit
+- [x-patrol](https://github.com/MiSecurity/x-patrol) github leakage information gathering
 - [repo-security-scanner](https://github.com/UKHomeOffice/repo-security-scanner) CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys
 - [dvcs-ripper](https://github.com/kost/dvcs-ripper) Rip web accessible (distributed) version control systems
 - [svnExploit](https://github.com/admintony/svnExploit/)
