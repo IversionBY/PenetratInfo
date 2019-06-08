@@ -98,9 +98,15 @@ Some tools and websites may useful in penetration.
 - [Pydictor](https://github.com/LandGrey/pydictor/blob/master/README_CN.md)
 
 ## 0X05 Password Crack
+- [Hash-analyzer online](https://www.tunnelsup.com/hash-analyzer/)
+- [Hash-identification online](https://www.onlinehashcrack.com/hash-identification.php)
+- [Hash_type_checker online](https://md5hashing.net/hash_type_checker)
+- [Hash-identifier inline kali](https://code.google.com/archive/p/hash-identifier/)
 - [hashcat](https://hashcat.net/hashcat/)
 - [John the Ripper](https://www.openwall.com/john/)
-
+- [cmd5 online](http://cmd5.com/)
+- [md5-decrypter online](https://hashkiller.co.uk/md5-decrypter.aspx)
+- [md5hashing online](https://md5hashing.net/text-debug)
 
 ## 0X06 System Vulnerability
 - [Linux kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits)
@@ -149,6 +155,7 @@ Some tools and websites may useful in penetration.
 - [OWASP-Web-Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
 - [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS)
 - [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)
+- [Shellcodes database for study cases](http://shell-storm.org/shellcode/)
 
 ## 0X10 Webshell And Payload
 - [PHP Webshell](https://github.com/JohnTroony/php-webshells)
@@ -250,10 +257,7 @@ Some tools and websites may useful in penetration.
 - [rumkin](http://rumkin.com/tools/cipher/)
 - [tomeko](http://tomeko.net/online_tools/)
 - [cryptool-online](https://www.cryptool.org/de/cryptool-online)
-- [cmd5](http://cmd5.com/)
-- [md5-decrypter](https://hashkiller.co.uk/md5-decrypter.aspx)
-- [CyberChef ](https://gchq.github.io/CyberChef/)
-- [md5hashing](https://md5hashing.net/text-debug)
+- [CyberChef](https://gchq.github.io/CyberChef/)
 - [crackstation](https://crackstation.net/)
 - [freeformatter](https://www.freeformatter.com/)
 - [factordb](http://factordb.com/index.php)
@@ -296,10 +300,12 @@ Some tools and websites may useful in penetration.
 - [Awesome Pentest](https://github.com/enaqx/awesome-pentest)
 - [Scanner-Box](https://github.com/We5ter/Scanners-Box)  is the toolbox of open source scanners
 - [Mind Map](https://github.com/phith0n/Mind-Map)
-- [sec-chart](https://github.com/SecWiki/sec-chart)
+- [Sec-chart](https://github.com/SecWiki/sec-chart)
 - [Seclists](https://github.com/danielmiessler/SecLists)
 - [SecurityDoucument](https://github.com/bollwarm/SecToolSet/blob/master/SecurityDoucument.md)
 - [Ired Team](https://ired.team/)
+- [Osstmm](http://www.isecom.org/research/osstmm.html) Open Source Security Testing Methodology Manual (OSSTMM).
+
 ## Other Resource
 - [TOOLS](https://www.t00ls.net/pytools.html)
 - [Knownsec RD Checklist](http://blog.knownsec.com/Knownsec_RD_Checklist/)
