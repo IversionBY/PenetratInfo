@@ -226,6 +226,7 @@ Some tools and websites may useful in penetration.
 - [UACME](https://github.com/hfiref0x/UACME) Defeating Windows User Account Control by abusing built-in Windows AutoElevate backdoor.
 - [PowerShell-Suite](https://github.com/FuzzySecurity/PowerShell-Suite)  is a collection of PowerShell utilities which are great tools and resources online to accomplish most any task.
 - [Impacket](https://github.com/SecureAuthCorp/impacket) is a collection of Python classes for working with network protocols. Impacket is focused on providing low-level programmatic access to the packets and for some protocols (e.g. SMB1-3 and MSRPC) the protocol implementation itself. Packets can be constructed from scratch, as well as parsed from raw data, and the object oriented API makes it simple to work with deep hierarchies of protocols. The library provides a set of tools as examples of what can be done within the context of this library.
+- [Windows EXE Impacket](https://github.com/maaaaz/impacket-examples-windows)
 - [PowerSploit](https://github.com/PowerShellMafia/PowerSploit/) is a collection of Microsoft PowerShell modules that can be used to aid penetration testers during all phases of an assessment. PowerSploit is comprised of the following modules and scripts.
 - [metasploit-framework](https://github.com/rapid7/metasploit-framework)
 - [Koadic](https://github.com/zerosum0x0/koadic) is a Windows post-exploitation rootkit similar to other penetration testing tools such as Meterpreter and Powershell Empire.
