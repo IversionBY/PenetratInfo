@@ -139,6 +139,8 @@ Some tools and websites may useful in penetration.
 - [kitploit tools introduction](https://www.kitploit.com/)
 - [Searchsploit](https://www.exploit-db.com/searchsploit)
 - [Seebug](https://www.seebug.org/)
+- [Sherlocak](https://github.com/rasta-mouse/Sherlock) PowerShell script to quickly find missing software patches for local privilege escalation vulnerabilities.
+- [Windows Exploit Suggester](https://github.com/GDSSecurity/Windows-Exploit-Suggester)
 - [Linux Kernel Exploit Suggester](https://github.com/mzet-/linux-exploit-suggester)
 - [Next-Generation Linux Kernel Exploit Suggester](https://github.com/jondonas/linux-exploit-suggester-2)
 - [Vuldb](https://vuldb.com/)
