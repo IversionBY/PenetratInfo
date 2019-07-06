@@ -42,6 +42,7 @@ Some tools and websites may useful in penetration.
 - [Advantage search grammar](https://thief.one/2017/05/19/1/)
 - [netcraft](https://www.netcraft.com/)
 - [ssl certificate search](https://crt.sh)
+- [ssltest](https://www.ssllabs.com/ssltest/)
 - [zone-transger](https://hackertarget.com/zone-transfer/)
 - [lookup dns records](https://dnsdumpster.com/)
 - [threatbook](https://x.threatbook.cn/)
