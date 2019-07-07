@@ -108,6 +108,7 @@ Some tools and websites may useful in penetration.
 - [cmd5 online](http://cmd5.com/)
 - [md5-decrypter online](https://hashkiller.co.uk/md5-decrypter.aspx)
 - [md5hashing online](https://md5hashing.net/text-debug)
+- [JWT brute force cracker written in C](https://github.com/brendan-rius/c-jwt-cracker)
 
 ## 0X06 System Vulnerability
 - [Linux kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits)
