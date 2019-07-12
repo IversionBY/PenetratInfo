@@ -77,6 +77,7 @@ Some tools and websites may useful in penetration.
 - [OWTF](https://owtf.github.io/#download)
 - [Openvas](http://openvas.org/)
 - [*Burpsuite](https://portswigger.net/burp)
+- [Burpsuite extensions](https://github.com/snoopysecurity/awesome-burp-extensions/blob/master/README.md)
 - [Kubernetes Files Scanning](https://kubesec.io/)
 - [Nikto](https://github.com/sullo/nikto)
 - [Fiddler](https://www.telerik.com/download/fiddler)
