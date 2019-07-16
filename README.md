@@ -317,6 +317,7 @@ Some tools and websites may useful in penetration.
 - [SecurityDoucument](https://github.com/bollwarm/SecToolSet/blob/master/SecurityDoucument.md)
 - [Ired Team](https://ired.team/)
 - [Osstmm](http://www.isecom.org/research/osstmm.html) Open Source Security Testing Methodology Manual (OSSTMM).
+- [HTML5 sec](http://html5sec.org/)
 
 ## Other Resource
 - [TOOLS](https://www.t00ls.net/pytools.html)
