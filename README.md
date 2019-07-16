@@ -85,6 +85,9 @@ Some tools and websites may useful in penetration.
 - [w3af](https://github.com/andresriancho/w3af)
 - [Mantra](https://www.owasp.org/index.php/OWASP_Mantra_-_Security_Framework#tab=Downloads)
 
+### Verify
+- [XSShunter](https://xsshunter.com/app)
+
 ### JS API Find in Script
 - [LinkFinder](https://github.com/GerbenJavado/LinkFinder)
 
