@@ -82,12 +82,15 @@ Some tools and websites may useful in penetration.
 - [Kubernetes Files Scanning](https://kubesec.io/)
 - [Nikto](https://github.com/sullo/nikto)
 - [Fiddler](https://www.telerik.com/download/fiddler)
-- [w3af](https://github.com/andresriancho/w3af)
+- [W3af](https://github.com/andresriancho/w3af)
 - [Mantra](https://www.owasp.org/index.php/OWASP_Mantra_-_Security_Framework#tab=Downloads)
+- [Discover](https://github.com/leebaird/discover)
 
 ### Useful other platform
 - [XSShunter](https://xsshunter.com/app)
 - [Ceye](http://ceye.io/profile)
+- [Websocket client chrome extension](https://chrome.google.com/webstore/detail/simple-websocket-client/pfdhoblngboilpfeibdedpjgfnlcodoo?hl=en)
+
 
 ### JS API Find in Script
 - [LinkFinder](https://github.com/GerbenJavado/LinkFinder)
