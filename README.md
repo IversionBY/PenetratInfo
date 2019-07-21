@@ -319,7 +319,8 @@ Some tools and websites may useful in penetration.
 - [Ired Team](https://ired.team/)
 - [Osstmm](http://www.isecom.org/research/osstmm.html) Open Source Security Testing Methodology Manual (OSSTMM).
 - [HTML5 sec](http://html5sec.org/)
-- [](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation/blob/master/PDF/%5B%E8%AF%91%5D%20%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E5%AE%9E%E6%88%98%E7%AC%AC%E4%B8%89%E7%89%88(%E7%BA%A2%E9%98%9F%E7%89%88)3%E6%9C%8819%E6%97%A5%E6%9B%B4%E6%96%B0.pdf)
+- [The-Hacker-Playbook-3-Translation](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation/blob/master/PDF/%5B%E8%AF%91%5D%20%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E5%AE%9E%E6%88%98%E7%AC%AC%E4%B8%89%E7%89%88(%E7%BA%A2%E9%98%9F%E7%89%88)3%E6%9C%8819%E6%97%A5%E6%9B%B4%E6%96%B0.pdf)
+- [APTnotes](https://github.com/kbandla/APTnotes)
 ## Other Resource
 - [TOOLS](https://www.t00ls.net/pytools.html)
 - [Knownsec RD Checklist](http://blog.knownsec.com/Knownsec_RD_Checklist/)
