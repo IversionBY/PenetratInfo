@@ -27,7 +27,7 @@
     - [0X20 MISC(Brute force,encode,decode,cipher)](#0X20-MISC(Brute-force,encode,decode,cipher))
     - [0x21 Vulnerability System](#0x21-Vulnerability-System)
     - [0x22 Learn More](#0x22-Learn-More)
-    - [Other Resource](#Other-Resource)
+    - [standard](#Other-Resource)
 
 
 # PentestInfo
@@ -325,7 +325,6 @@ Some tools and websites may useful in penetration.
 - [Knownsec RD Checklist](http://blog.knownsec.com/Knownsec_RD_Checklist/
 ## standard
 - [OWASP_Testing_Guide_v4_Table_of_Contents](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
-
-
+- [PCI-DSS](https://www.pcisecuritystandards.org/minisite/en/pci-dss-v3-0.php)
 
 
