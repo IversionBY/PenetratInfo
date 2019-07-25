@@ -172,6 +172,7 @@ Some tools and websites may useful in penetration.
 - [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS)
 - [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)
 - [Shellcodes database for study cases](http://shell-storm.org/shellcode/)
+- [OXML_XXE](https://github.com/BuffaloWill/oxml_xxe)
 
 ## 0X10 Webshell And Payload
 - [PHP Webshell](https://github.com/JohnTroony/php-webshells)
