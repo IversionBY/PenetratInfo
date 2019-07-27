@@ -49,6 +49,7 @@ Some tools and websites may useful in penetration.
 - [threatbook](https://x.threatbook.cn/)
 - [List_of_TCP_and_UDP_port_numbers](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
 - [CertDB](https://certdb.com/domain/github.com)
+- [SPF cheack](https://mxtoolbox.com/spf.aspx)
 - [tko-subs](https://github.com/anshumanbh/tko-subs) A tool that can help detect and takeover subdomains with dead DNS records.
 
 ### Information leakage
