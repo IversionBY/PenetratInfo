@@ -88,14 +88,14 @@ Some tools and websites may useful in penetration.
 - [Mantra](https://www.owasp.org/index.php/OWASP_Mantra_-_Security_Framework#tab=Downloads)
 - [Discover](https://github.com/leebaird/discover)
 
-### Useful other platform
+### Useful other platform or Extensions
 - [XSShunter](https://xsshunter.com/app)
 - [Ceye](http://ceye.io/profile)
 - [Websocket client chrome extension](https://chrome.google.com/webstore/detail/simple-websocket-client/pfdhoblngboilpfeibdedpjgfnlcodoo?hl=en)
-
-
-### JS API Find in Script
+- [SSRFmap](https://github.com/swisskyrepo/SSRFmap)
 - [LinkFinder](https://github.com/GerbenJavado/LinkFinder)
+- [interestingFileScanner](https://github.com/modzero/interestingFileScanner)
+
 
 ### Web Applications Scan Tools
 - [Sqlmap](http://sqlmap.org/)
@@ -328,6 +328,7 @@ Some tools and websites may useful in penetration.
 - [The-Hacker-Playbook-3-Translation](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation/blob/master/PDF/%5B%E8%AF%91%5D%20%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E5%AE%9E%E6%88%98%E7%AC%AC%E4%B8%89%E7%89%88(%E7%BA%A2%E9%98%9F%E7%89%88)3%E6%9C%8819%E6%97%A5%E6%9B%B4%E6%96%B0.pdf)
 - [APTnotes](https://github.com/kbandla/APTnotes)
 - [TOOLS](https://www.t00ls.net/pytools.html)
+- [Tools links](https://www.lshack.cn/772/)
 - [Knownsec RD Checklist](http://blog.knownsec.com/Knownsec_RD_Checklist/
 ## standard
 - [OWASP_Testing_Guide_v4_Table_of_Contents](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
