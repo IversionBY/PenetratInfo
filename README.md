@@ -105,6 +105,7 @@ Some tools and websites may useful in penetration.
 - [Xsstrike](https://github.com/s0md3v/XSStrike)
 
 ## 0X04 Fuzz and Password
+- [defult password search](https://cirt.net/passwords)
 - [Fuzzdb](https://github.com/fuzzdb-project/fuzzdb)
 - [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing)
 - [Passwd list](https://wiki.skullsecurity.org/Passwords)hy
