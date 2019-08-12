@@ -88,6 +88,7 @@ Some tools and websites may useful in penetration.
 - [Mantra](https://www.owasp.org/index.php/OWASP_Mantra_-_Security_Framework#tab=Downloads)
 - [Discover](https://github.com/leebaird/discover)
 
+
 ### Useful other platform or Extensions
 - [XSShunter](https://xsshunter.com/app)
 - [Ceye](http://ceye.io/profile)
@@ -95,7 +96,8 @@ Some tools and websites may useful in penetration.
 - [SSRFmap](https://github.com/swisskyrepo/SSRFmap)
 - [LinkFinder](https://github.com/GerbenJavado/LinkFinder)
 - [interestingFileScanner](https://github.com/modzero/interestingFileScanner)
-
+- [CrossSiteContentHijacking](https://github.com/nccgroup/CrossSiteContentHijacking)
+- [XSS De/Enc](http://xssor.io/#ende)
 
 ### Web Applications Scan Tools
 - [Sqlmap](http://sqlmap.org/)
@@ -105,7 +107,7 @@ Some tools and websites may useful in penetration.
 - [Xsstrike](https://github.com/s0md3v/XSStrike)
 
 ## 0X04 Fuzz and Password
-- [defult password search](https://cirt.net/passwords)
+- [default password search](https://cirt.net/passwords)
 - [Fuzzdb](https://github.com/fuzzdb-project/fuzzdb)
 - [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing)
 - [Passwd list](https://wiki.skullsecurity.org/Passwords)hy
