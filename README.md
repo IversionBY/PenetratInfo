@@ -98,6 +98,7 @@ Some tools and websites may useful in penetration.
 - [interestingFileScanner](https://github.com/modzero/interestingFileScanner)
 - [CrossSiteContentHijacking](https://github.com/nccgroup/CrossSiteContentHijacking)
 - [XSS De/Enc](http://xssor.io/#ende)
+- [websocket.org](http://websocket.org/echo.html) Testing websocket online!
 
 ### Web Applications Scan Tools
 - [Sqlmap](http://sqlmap.org/)
