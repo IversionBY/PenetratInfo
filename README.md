@@ -165,6 +165,7 @@ Some tools and websites may useful in penetration.
 - [Vuldb](https://vuldb.com/)
 
 ## 0X09 Cheatsheet
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [Pentestmonkey](http://pentestmonkey.net/)
 - [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 - [Penetration Testing Tools Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
