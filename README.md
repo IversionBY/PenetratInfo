@@ -73,6 +73,7 @@ Some tools and websites may useful in penetration.
 - [Wafw00f](https://github.com/EnableSecurity/wafw00f)
 - [Yunsee](http://www.yunsee.cn/)
 
+
 ### Tools For Overall Scan
 - [Nmap](https://nmap.org/)
 - [msscan](https://github.com/robertdavidgraham/masscan)
@@ -194,6 +195,8 @@ Some tools and websites may useful in penetration.
 - [pasc2cat](https://github.com/Jyny/pasc2at)
 
 ## 0X12 Code Review Scan Tools
+- [bandit](https://github.com/PyCQA/bandit)
+- [scanjs](https://github.com/mozilla/scanjs)
 - [Cobra](https://github.com/WhaleShark-Team/cobra)
 - [Fortify SCA](https://www.microfocus.com/en-us/products/static-code-analysis-sast/overview)
 - [Phpvulhunter](https://github.com/OneSourceCat/phpvulhunter)
@@ -335,8 +338,10 @@ Some tools and websites may useful in penetration.
 - [TOOLS](https://www.t00ls.net/pytools.html)
 - [Tools links](https://www.lshack.cn/772/)
 - [Knownsec RD Checklist](http://blog.knownsec.com/Knownsec_RD_Checklist/
+
 ## standard
 - [OWASP_Testing_Guide_v4_Table_of_Contents](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
 - [PCI-DSS](https://www.pcisecuritystandards.org/minisite/en/pci-dss-v3-0.php)
+- [RFC](https://www.ietf.org/standards/rfcs/)
 
 
