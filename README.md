@@ -279,6 +279,7 @@ Some tools and websites may useful in penetration.
 - [Clearlogs](https://github.com/maldevel/clearlogs) Clear All Windows System Logs - AntiForensics
 - [Nirsoft](http://www.nirsoft.net/) browser cache,password recovery,password cache......
 - [NetRipper](https://github.com/NytroRST/NetRipper)  is a post exploitation tool targeting Windows systems which uses API hooking in order to intercept network traffic and encryption related functions from a low privileged user, being able to capture both plain-text traffic and encrypted traffic before encryption/after decryption.
+- [Linux应急响应/信息搜集脚本 V2.0 ](https://raw.githubusercontent.com/al0ne/LinuxCheck/master/LinuxCheck.sh)
 
 ## 0X20 MISC(Brute force,encode,decode,cipher)
 - [rumkin](http://rumkin.com/tools/cipher/)
