@@ -100,6 +100,7 @@ Some tools and websites may useful in penetration.
 - [CrossSiteContentHijacking](https://github.com/nccgroup/CrossSiteContentHijacking)
 - [XSS De/Enc](http://xssor.io/#ende)
 - [websocket.org](http://websocket.org/echo.html) Testing websocket online!
+- [Regulex](https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24) JavaScript Regular Expression Visualizer
 
 ### Web Applications Scan Tools
 - [Sqlmap](http://sqlmap.org/)
@@ -203,6 +204,7 @@ Some tools and websites may useful in penetration.
 - [Rips](https://www.ripstech.com/)
 - [VCG](https://github.com/nccgroup/VCG)
 - [Bugscanner](http://tools.bugscaner.com/bugcode/)
+- [sonar](https://www.sonarqube.org/)
 
 ## 0X13 Frameworks and Components POC
 - [CMS-Hunter](https://github.com/SecWiki/CMS-Hunter)
