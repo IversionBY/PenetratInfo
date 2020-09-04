@@ -101,6 +101,9 @@ Some tools and websites may useful in penetration.
 - [XSS De/Enc](http://xssor.io/#ende)
 - [websocket.org](http://websocket.org/echo.html) Testing websocket online!
 - [Regulex](https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24) JavaScript Regular Expression Visualizer
+- [Webrtc-ips](https://github.com/diafygi/webrtc-ips)
+- [dns-rebind-toolkit](https://github.com/brannondorsey/dns-rebind-toolkit)
+- [DNS rebinding online](http://1u.ms/)
 
 ### Web Applications Scan Tools
 - [Sqlmap](http://sqlmap.org/)
